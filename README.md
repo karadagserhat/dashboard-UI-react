@@ -1,1 +1,1 @@
-https://dashboard-ui-react-mini.netlify.app/
+https://dashboard-ui-react-mini.vercel.app/
